@@ -3,3 +3,6 @@ bread
 milk
 candy
 kinderjoy
+chips
+icecreams
+kurkure
