@@ -7,3 +7,9 @@ chips
 icecreams
 kurkure
 lays
+
+added in production branch
+
+pickle
+lollipop
+
