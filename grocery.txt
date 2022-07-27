@@ -6,3 +6,4 @@ kinderjoy
 chips
 icecreams
 kurkure
+lays
