@@ -13,3 +13,5 @@ added in production branch
 pickle
 lollipop
 
+adapter
+charger
